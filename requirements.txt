@@ -45,6 +45,5 @@ carbonnow==0.0.1
 
 Pillow>=4.2.0
 
-speedtest-cli
 Pillow
 ujson
